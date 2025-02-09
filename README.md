@@ -1,7 +1,7 @@
 # Dynamic Pricing Example
 
 🚀 **Starte das Notebook direkt in Google Colab:**  
-[![Öffnen in Colab](https://colab.research.google.com/github/rim-the-optimizer/Dynamic-Pricing-Example/blob/main/dynamic_pricing.ipynb)
+[![Öffnen in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rim-the-optimizer/Dynamic-Pricing-Example/blob/main/dynamic_pricing.ipynb)
 
 ## 📖 Beschreibung
 Dieses Repository enthält ein einfaches Preismodell für eine Crowdsourcing-Plattform.  
