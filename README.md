@@ -13,7 +13,7 @@ Es berechnet den Preis basierend auf **Angebot und Nachfrage**.
 3. **Falls gewünscht, erstelle eine Kopie in deinem Google Drive.**
 
 ## 📊 Visualisierung
-Das Notebook enthält eine **3D-Darstellung des Preismodells** mit Matplotlib.
+Das Notebook enthält eine **Heatmap-Darstellung des Preismodells** mit Matplotlib.
 
 ## 🛠 Installation (Falls lokal genutzt)
 Falls du das Notebook lokal ausführen möchtest:
