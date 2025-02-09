@@ -28,7 +28,7 @@ Z = np.array([[dynamic_pricing(d, s) for s in supply_values] for d in demand_val
 # Visualisierung mit Konturdiagramm
 plt.figure(figsize=(8,6))
 contour = plt.contourf(X, Y, Z, levels=20, cmap='viridis')
-plt.colorbar(contour, label='Preis (€)')
+plt.colorbar(contour, label='Preis (€)', orientation='horizontal', pad=0.1, location='top')
 plt.xlabel('Angebot')
 plt.ylabel('Nachfrage')
 plt.title('Preisänderung in Abhängigkeit von Angebot und Nachfrage')
