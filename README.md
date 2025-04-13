@@ -21,5 +21,3 @@ Falls du das Notebook lokal ausführen möchtest:
 git clone https://github.com/rim-the-optimizer/Dynamic-Pricing-Example.git
 pip install -r requirements.txt
 jupyter notebook
-
-Dies ist eine zusätzliche Zeile.
